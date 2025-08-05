@@ -26,7 +26,8 @@
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=guothion&theme=ambient_gradient&title_color=8E2DE2&text_color=fff&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guothion&theme=ambient_gradient&title_color=8E2DE2&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=guothion&theme=buefy&show_icons=true)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guothion&theme=buefy&show_icons=true)
 
 
