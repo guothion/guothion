@@ -18,7 +18,7 @@
 <br>
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
 ![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+![go](https://img.shields.io/badge/-go-grey?style=for-the-badge&logo=go&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 <br>
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
@@ -30,11 +30,11 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guothion&theme=buefy&show_icons=true&layout=compact)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/guothion/xuanyuan-admin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guothion&repo=xuanyuan-admin" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/guothion/xuanyuan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guothion&repo=xuanyuan" />
 </a>
 
 
