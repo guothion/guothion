@@ -25,7 +25,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=guothion&theme=buefy&show_icons=true&width=600)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guothion&theme=buefy&show_icons=true&layout=compact&width=600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guothion&theme=buefy&show_icons=true&layout=pie&card_width=600)
 
 <a href="https://github.com/guothion/xuanyuan-admin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guothion&repo=xuanyuan-admin" />
