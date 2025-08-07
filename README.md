@@ -37,6 +37,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guothion&repo=xuanyuan" />
 </a>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guothion)]
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guothion)](https://github.com/anuraghazra/github-readme-stats)
 
 
